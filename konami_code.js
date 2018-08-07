@@ -27,10 +27,10 @@ function checkForCode(e){
     if(index === codes.length) {
       alert("Good job!");
       
-      index =0;
+      index = 0;
+    } 
     } else {
       index = 0;
-    }
   }
 }
 
